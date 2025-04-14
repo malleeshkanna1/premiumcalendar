@@ -1,7 +1,7 @@
 /*
-  * MMK Premium Calendar v1.0 (https://mmkpremiumcalendar.malleeshkanna.com/)
+  * MMK Premium Calendar v1.0 (https://premiumcalendar.malleeshkanna.com/)
   * Copyright 2025 Malleeshkanna (https://malleeshkanna.com)
-  * Licensed under MIT (https://mmkpremiumcalendar.malleeshkanna.com/license)
+  * Licensed under MIT (https://premiumcalendar.malleeshkanna.com/license)
   */
  
 class MMKPremiumCalendar {
