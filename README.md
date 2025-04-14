@@ -22,7 +22,7 @@ Quick to integrate, mobile-friendly, and designed with a premium look and feel.
 ```html
 <link rel="stylesheet" href="https://cdn.malleeshkanna.com/mmkpremiumcalendar/v1.0/premiumcalendar.min.css">
 <script src="https://cdn.malleeshkanna.com/mmkpremiumcalendar/v1.0/premiumcalendar.min.js"></script>
-
+```
 ---
 
 ## 📄 Documentation
