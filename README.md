@@ -8,7 +8,7 @@ Quick to integrate, mobile-friendly, and designed with a premium look and feel.
 ## 🚀 Features
 
 - ✅ Simple and fast setup  
-- ✅ Customizable appearance via CSS  
+- ✅ Fully Customizable  
 - ✅ Lightweight — no dependencies  
 - ✅ Mobile-friendly and responsive
 - ✅ No Jquery Needed  
